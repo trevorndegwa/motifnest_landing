@@ -69,6 +69,7 @@ footer {
     height: 100%;
     object-fit: cover;
     z-index: -1;
+    display: block;
 }
 
 #intro h1, #intro p, #intro nav {
