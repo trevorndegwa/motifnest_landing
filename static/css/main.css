@@ -49,7 +49,7 @@ footer {
 }
 
 #intro {
-    height: 500px;
+    height: 60vh;
     background-image: url('static/images/intro.jpg');
     background-size: cover;
     background-position: center;
