@@ -22,6 +22,10 @@ nav ul li {
     margin: 0 1rem;
 }
 
+nav a {
+color: white; 
+}
+
 nav ul li a {
     color: white;
     text-decoration: none;
